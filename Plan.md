@@ -4,18 +4,18 @@
 <strong> Your report should contain: </strong>
 
 - [x] general description of the data set,
-- [ ] discussion of data mining goals and success criteria,
-- [ ] characteristics of the data set (origin, format, number of samples, whether it consists of one set or several),
-- [ ] description of the attributes (names, types - nominal / numerical, meaning, unit of measurement, special values), 
-- [ ] exploratory data analysis: 
-  - [ ] distribution of attribute values, 
-  - [ ] correlations between attribute values, 
+- [ ] discussion of data mining goals and success criteria, POPRAW
+- [x] characteristics of the data set (origin, format, number of samples, whether it consists of one set or several),
+- [x] description of the attributes (names, types - nominal / numerical, meaning, unit of measurement, special values), 
+- [ ] exploratory data analysis:  <em>z tym mam problem</em>
+  - [x] distribution of attribute values, 
+  - [ ] correlations between attribute values, <strong> w chuj duża tabela </strong>
   - [ ] preliminary findings about the contents of the datasets,
 - [ ] discussion of data quality: 
-  - [ ] missing data, 
+  - [x] missing data, 
   - [ ] outliers, 
-  - [ ] overall data integrity, 
-  - [ ] values of unknown meaning 
+  - [x] overall data integrity, 
+  - [x] values of unknown meaning 
 - [ ] revision or discussion of validity of goals for further data mining 
 
 
